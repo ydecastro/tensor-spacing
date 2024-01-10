@@ -1,11 +1,11 @@
 # tensor-spacing
 This is a Python package for the article `Second maximum of a Gaussian random field and exact (t-)spacing test` by Jean-Marc Azaïs, Federico Dalmao and Yohann De Castro.
 
-## Main module:
+## Main module
 
 1. **tensor_spacing.py**: implementation of spacing test.
 
-## Jupyter Notebooks:
+## Jupyter Notebooks
 
 1. **spacing_tensors.ipynb** : Demonstrates spacing test in the case of symmetric tensors.
 
