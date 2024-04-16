@@ -1,5 +1,5 @@
 # tensor-spacing
-This is a Python package for the article `Second maximum of a Gaussian random field and exact (t-)spacing test` by Jean-Marc Azaïs, Federico Dalmao and Yohann De Castro.
+This is a Python package for the article `Second maximum of a Gaussian random field and exact (t-)spacing test` by Jean-Marc Azaïs, Federico Dalmao and Yohann De Castro. It illustrates the method of testing for the existence of **low-rank tensors** within a noisy observation. While our procedure is not specifically designed to detect low rank structures, it is applicable to **ALL** alternatives. However, it is particularly powerful when applied to low rank alternatives.
 
 ## Main module
 
