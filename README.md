@@ -7,7 +7,7 @@ This is a Python package for the article `Second maximum of a Gaussian random fi
 
 ## Jupyter Notebooks
 
-1. **spacing_tensors.ipynb** : Demonstrates spacing test in the case of symmetric tensors.
+1. [**spacing_tensors.ipynb**](https://github.com/ydecastro/tensor-spacing/blob/main/3way_3dim_case/spacing_tensors.ipynb) : Demonstrates spacing test in the case of symmetric tensors.
 
 ## Reference
 This notebook is based on the article:
