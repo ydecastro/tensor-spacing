@@ -11,4 +11,4 @@ This is a Python package for the article `Second maximum of a Gaussian random fi
 
 ## Reference
 This notebook is based on the article:
-1. Azaïs J.-M., Dalmao F., De Castro Y., `Second maximum of a Gaussian random field and exact (t-)spacing test`, arXiv:.
+1. Azaïs J.-M., Dalmao F., De Castro Y., `Second maximum of a Gaussian random field and exact (t-)spacing test`, [arXiv:2406.18397](https://arxiv.org/abs/2406.18397).
