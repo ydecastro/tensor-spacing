@@ -1,0 +1,33 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "tenspace"
+version = "1.0.0"
+description = "Spacing and t-spacing tests for spiked tensor PCA (second maximum of a Gaussian random field)"
+readme = "README.md"
+license = { file = "LICENSE" }
+authors = [
+  { name = "Jean-Marc Azais" },
+  { name = "Federico Dalmao" },
+  { name = "Yohann De Castro" },
+]
+requires-python = ">=3.9"
+dependencies = [
+  "numpy>=1.23",
+  "scipy>=1.9",
+  "pandas>=1.5",
+  "matplotlib>=3.6",
+  "seaborn>=0.13",
+]
+
+[project.optional-dependencies]
+test = ["pytest>=7"]
+
+[project.urls]
+Homepage = "https://github.com/ydecastro/tensor-spacing"
+Paper = "https://arxiv.org/abs/2406.18397"
+
+[tool.setuptools]
+packages = ["tenspace"]
